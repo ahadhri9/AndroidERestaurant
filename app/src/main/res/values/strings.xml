@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ERistorante</string>
+    <string name="home_entries">Entrées</string>
+    <string name="home_dishes">Plats</string>
+    <string name="home_deserts">Desserts</string>
+    <string name="error">Saisie Incorecte</string>
+    <string name="welcome">bienvenuto al ERistorante</string>
+    <string name="login">Connexion</string>
+    <string name="register">Inscription</string>
+    <string name="adresse_e_mail">Adresse e-mail</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="valider">Valider</string>
+    <string name="nom">Nom</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="connexion">Connexion</string>
+    <string name="todo">TODO</string>
+
+</resources>
